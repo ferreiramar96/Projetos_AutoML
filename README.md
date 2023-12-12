@@ -13,7 +13,7 @@ A seguir, alguns pontos do projeto:
 * Auto Machine Learning com PyCaret
 * Comparação de vários algoritmos de Machine Learning 
 * Tuning do Algoritmo
-* Salvamento do Modelo em formato de Arquivo
+* Modelo salvo em formato de Arquivo
 * Avaliação dos resultados e conclusão
 
 Ao longo de todo o projeto, cada célula de código está explicada para uma fácil compreensão, acompanhado de um belo storytelling. Vocês também encontrarão algumas análises estatísticas, boxplots, histogramas, matriz de correlação e toda a parte de pré-processamento dos dados ficaram por conta de nosso Auto Machine Learning.
