@@ -24,7 +24,7 @@ Neste projeto foi utilizado: Storytelling, Estatística, Auto Machine Learning(A
 [Link para o projeto completo](https://bit.ly/3PgcuSJ)
 
 **Links para me acharem:**
-* [Artigo desse projeto no Linkedin](https://www.linkedin.com/posts/felipeferreiratids_datascience-cienciadedados-machinelearning-activity-7096951640322142209-WszZ?utm_source=share&utm_medium=member_desktop)
+* [Artigo desse projeto no Linkedin](https://www.linkedin.com/posts/felipeferreiratids_projeto-project-machinelearning-activity-7108176608930201600-p4X9?utm_source=share&utm_medium=member_desktop)
 * [LinkedIn](https://www.linkedin.com/in/felipeferreiratids/)
 * [Instagram](https://www.instagram.com/ferreiramar96/)
 * [Portfólio Completo](https://github.com/ferreiramar96/Data_Science)
